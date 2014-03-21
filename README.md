@@ -5,6 +5,9 @@ Thanks to abesto. His duolingo-to-anki project was heavily referenced for this. 
 Import this project into Eclipse to compile.  Currently working on setting up a Maven build.
 
 To-do:
+
 Set up Maven
+
 Make a Swing UI
+
 Do something useful with the fetched data
